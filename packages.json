@@ -2,5 +2,9 @@
     {
         "package": "wikimapR",
         "url": "https://github.com/e-kotov/wikimapR"
+    },
+    {
+        "package": "rJavaEnv",
+        "url": "https://github.com/e-kotov/rJavaEnv"
     }
 ]
