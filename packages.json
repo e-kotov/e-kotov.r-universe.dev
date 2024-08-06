@@ -6,5 +6,9 @@
     {
         "package": "rJavaEnv",
         "url": "https://github.com/e-kotov/rJavaEnv"
+    },
+    {
+        "package": "rang",
+        "url": "https://github.com/gesistsa/rang"
     }
 ]
