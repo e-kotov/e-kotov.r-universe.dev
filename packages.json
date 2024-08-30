@@ -14,5 +14,9 @@
     {
         "package": "spanishoddata",
         "url": "https://github.com/Robinlovelace/spanishoddata"
+    },
+    {
+        "package": "flowmapblue",
+        "url": "https://github.com/FlowmapBlue/flowmapblue.R"
     }
 ]
