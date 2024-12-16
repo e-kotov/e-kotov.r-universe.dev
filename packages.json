@@ -8,6 +8,10 @@
         "url": "https://github.com/e-kotov/rJavaEnv"
     },
     {
+        "package": "mapineqr",
+        "url": "https://github.com/e-kotov/mapineqr"
+    },
+    {
         "package": "rang",
         "url": "https://github.com/gesistsa/rang"
     }
