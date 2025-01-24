@@ -18,5 +18,9 @@
     {
         "package": "duckdb",
         "url": "https://github.com/meztez/duckdb-r"
+    },
+    {
+        "package": "layer",
+        "url": "https://github.com/marcosci/layer"
     }
 ]
