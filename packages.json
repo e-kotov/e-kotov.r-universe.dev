@@ -14,5 +14,9 @@
     {
         "package": "rang",
         "url": "https://github.com/gesistsa/rang"
+    },
+    {
+        "package": "alboFr",
+        "url": "https://github.com//e-kotov/alboFr"
     }
 ]
