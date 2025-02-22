@@ -14,9 +14,5 @@
     {
         "package": "rang",
         "url": "https://github.com/gesistsa/rang"
-    },
-    {
-        "package": "duckdb",
-        "url": "https://github.com/meztez/duckdb-r"
     }
 ]
