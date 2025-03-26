@@ -18,5 +18,10 @@
     {
         "package": "alboFr",
         "url": "https://github.com/e-kotov/alboFr"
+    },
+    {
+        "package": "mall",
+        "url": "https://github.com/e-kotov/mall",
+        "branch": "structured"
     }
 ]
