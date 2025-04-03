@@ -18,10 +18,15 @@
     {
         "package": "alboFr",
         "url": "https://github.com/e-kotov/alboFr"
+    },    
+    {
+        "package": "rdocdump",
+        "url": "https://github.com/e-kotov/rdocdump"
     },
     {
         "package": "mall",
-        "url": "https://github.com/e-kotov/mall/r",
+        "url": "https://github.com/e-kotov/mall",
+        "subdir": "r",
         "branch": "structured"
     }
 ]
