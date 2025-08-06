@@ -22,5 +22,9 @@
     {
         "package": "rdocdump",
         "url": "https://github.com/e-kotov/rdocdump"
+    },
+    {
+        "package": "tphconv",
+        "url": "https://github.com/e-kotov/tphconv"
     }
 ]
