@@ -26,5 +26,9 @@
     {
         "package": "tphconv",
         "url": "https://github.com/e-kotov/tphconv"
+    },
+    {
+        "package": "ducksf",
+        "url": "https://github.com/e-kotov/ducksf"
     }
 ]
