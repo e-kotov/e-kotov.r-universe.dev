@@ -34,5 +34,9 @@
     {
         "package": "gridmaker",
         "url": "https://github.com/e-kotov/gridmaker"
+    },
+    {
+        "package": "r5rgui",
+        "url": "https://github.com/e-kotov/r5rgui"
     }
 ]
