@@ -38,5 +38,9 @@
     {
         "package": "r5rgui",
         "url": "https://github.com/e-kotov/r5rgui"
+    },
+    {
+        "package": "osrm.backend",
+        "url": "https://github.com/e-kotov/osrm.backend"
     }
 ]
