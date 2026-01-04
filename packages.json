@@ -28,8 +28,8 @@
         "url": "https://github.com/e-kotov/tphconv"
     },
     {
-        "package": "ducksf",
-        "url": "https://github.com/e-kotov/ducksf"
+        "package": "duckspatial",
+        "url": "https://github.com/Cidree/duckspatial"
     },
     {
         "package": "gridmaker",
