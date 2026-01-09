@@ -42,5 +42,10 @@
     {
         "package": "osrm.backend",
         "url": "https://github.com/e-kotov/osrm.backend"
+    },
+    {
+        "package": "duckdb",
+        "url": "https://github.com/duckdb/duckdb-r",
+        "branch": "next"
     }
 ]
