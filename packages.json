@@ -42,5 +42,9 @@
     {
         "package": "osrm.backend",
         "url": "https://github.com/e-kotov/osrm.backend"
+    },
+    {
+        "package": "sx",
+        "url": "https://github.com/e-kotov/sx"
     }
 ]
