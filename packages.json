@@ -46,5 +46,9 @@
     {
         "package": "sx",
         "url": "https://github.com/e-kotov/sx"
+    },
+    {
+        "package": "sx",
+        "url": "https://github.com/e-kotov/nvdb2osm"
     }
 ]
