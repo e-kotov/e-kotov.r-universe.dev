@@ -50,5 +50,9 @@
     {
         "package": "nvdb2osmr",
         "url": "https://github.com/e-kotov/nvdb2osmr"
+    },
+    {
+        "package": "r5r",
+        "url": "https://github.com/ipeaGIT/r5r"
     }
 ]
