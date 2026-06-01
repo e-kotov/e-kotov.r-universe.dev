@@ -54,5 +54,10 @@
     {
         "package": "r5r",
         "url": "https://github.com/ipeaGIT/r5r"
+    },
+    {
+        "package": "mapgl",
+        "url": "https://github.com/e-kotov/mapgl",
+        "branch": "flowmap"
     }
 ]
