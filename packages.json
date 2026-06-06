@@ -52,8 +52,13 @@
         "url": "https://github.com/e-kotov/nvdb2osmr"
     },
     {
+        "package": "gps2gtfs",
+        "url": "https://github.com/e-kotov/gps2gtfs"
+    },
+    {
         "package": "r5r",
-        "url": "https://github.com/ipeaGIT/r5r"
+        "url": "https://github.com/ipeaGIT/r5r",
+        "subdir": "r-package"
     },
     {
         "package": "mapgl",
