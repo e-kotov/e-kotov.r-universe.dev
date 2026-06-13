@@ -63,6 +63,6 @@
     {
         "package": "mapgl",
         "url": "https://github.com/e-kotov/mapgl",
-        "branch": "flowmap"
+        "branch": "flowmap-backup"
     }
 ]
